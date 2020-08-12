@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://daidson.github.io",
+  "homepage": "https://daidson.github.io/",
   "version": "1.0.0",
   "private": true,
   "author": {
     "name": "Daidson Alves",
     "email": "daidson.alves@gmail.com",
-    "url": "https://github.com/daidson"
+    "url": "https://github.com/daidson/"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
